@@ -14,6 +14,7 @@
   "author": "Adam H. Davis",
   "license": "ISC",
   "dependencies": {
+    "csv-parse": "^2.0.0",
     "ripple-keypairs": "^0.10.1"
   }
 }
