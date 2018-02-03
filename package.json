@@ -1,0 +1,19 @@
+{
+  "name": "rmine",
+  "version": "1.0.1",
+  "description": "A little Ripple vanity address miner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ripple",
+    "vanity",
+    "address"
+  ],
+  "author": "Adam H. Davis",
+  "license": "ISC",
+  "dependencies": {
+    "ripple-keypairs": "^0.10.1"
+  }
+}
