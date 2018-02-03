@@ -1,5 +1,5 @@
 var keypairs = require('ripple-keypairs');
 
 exports.testFunction = function() {
-	console.log("testing. " + keypairs.generateSeed());
+	console.log("Testing seed generator: " + keypairs.generateSeed());
 }
