@@ -1,6 +1,6 @@
 {
   "name": "rmine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little Ripple vanity address miner.",
   "main": "index.js",
   "scripts": {
